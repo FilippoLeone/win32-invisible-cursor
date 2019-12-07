@@ -1,6 +1,6 @@
 # Win32 Invisible Cursor
 
-# LATEST RELEASE: [1.0](!https://github.com/FilippoLeone/win32-invisible-cursor/releases/tag/1.0)
+# LATEST RELEASE: [1.0](https://github.com/FilippoLeone/win32-invisible-cursor/releases/tag/1.0)
 Win32 Invisible Cursor is a script that enables the user to quickly make their idle cursor invisible and visible with key shortcuts.
 
   - Press `CTRL + SHIFT + a` to make your cursor invisible
