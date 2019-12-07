@@ -6,6 +6,7 @@ import keyboard
 import requests
 
 def setTransparentCursor():
+    # partial code is from somebody on stackoverflow
     SetSystemCursor = windll.user32.SetSystemCursor
     SetSystemCursor.restype = c_int
     SetSystemCursor.argtype = [c_int, c_int]
